@@ -19,7 +19,7 @@ const addition = function() {
 
     if (sum > 0) {
         currentNum.style.color = 'black'
-    }
+    } 
 }
 
 // Subtraction
